@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561553700430",
+    "project_id": "petagram-notificaciones-f34d0",
+    "storage_bucket": "petagram-notificaciones-f34d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561553700430:android:673e4e1b5e9f2fd77bb51f",
+        "android_client_info": {
+          "package_name": "com.example.petagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhu_ux9lRTSYbhM-UV0cSZv2iSlPK9qWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
